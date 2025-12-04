@@ -31,7 +31,7 @@ struct ContentView: View {
             Text("你好！o(^▽^)o")
                 .font(.system(size:26))
                 .textSelection(.enabled)
-            Text("来自：陈奕辰")
+            Text("来自：Cirrus")
                 .foregroundStyle(.secondary)
                 .textSelection(.enabled)
             Text("（北京大学数学科学学院2025级本科生）")
