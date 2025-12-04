@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Tesuto–251204
 //
-//  Created by 陈奕辰 on 2025/12/4.
+//  Created by Cirrus on 2025/12/4.
 //
 
 import SwiftUI
@@ -34,7 +34,7 @@ struct ContentView: View {
             Text("来自：Cirrus")
                 .foregroundStyle(.secondary)
                 .textSelection(.enabled)
-            Text("（北京大学数学科学学院2025级本科生）")
+            Text("（数学科学学院）")
                 .foregroundStyle(.secondary)
                 .textSelection(.enabled)
             Text("这是一部2015年的iPhone 6s，")
